@@ -34,6 +34,8 @@ Publish the website in the LocalHost.
 
 
 ## OUTPUT:
+![Screenshot 2025-05-09 110105](https://github.com/user-attachments/assets/1b9142b3-5043-449f-88b3-928062ad1857)
+
 
 
 ## RESULT:
